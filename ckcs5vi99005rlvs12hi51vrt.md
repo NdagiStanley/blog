@@ -12,7 +12,7 @@ Previous post: [#2](https://blog.techkln.org/the-internet-and-domain-names-or-di
 
 When I started out, seeking to have a custom web presence (beyond having an email and Facebook account), I was pleasantly surprised to find out that I could get a free domain. I gravitated to **.tk** since it is the short form of TechKenyans (now TechKln), a community I run 💪. At first, it was for testing purposes but I have come to use it for keeps: [stanmd.tk](https://stanmd.tk).
 
-Below I take you through the process of having a domain and a landing page for free. I believe this is the epitome of a **free and accessible** internet. Anyone can have a place to call home in the World Wide Web!
+Below, I take you through the process of having a domain and a landing page for free. I believe this is the epitome of a **free and accessible** internet. Anyone can have a place to call home in the World Wide Web!
 
 ## Getting a free domain
 
