@@ -10,7 +10,7 @@ Previous post: [#2](https://blog.techkln.org/the-internet-and-domain-names-or-di
 
 # Your free domain and a landing page
 
-When I started out, seeking to have a custom web presence (beyond having an email and Facebook account) I was pleasantly surprised to find out that I could get a free domain. I gravitated to **.tk** since it is the short form of TechKenyans (now TechKln) 💪. At first, it was for testing purposes but I have come to use it for keeps: [stanmd.tk](https://stanmd.tk).
+When I started out, seeking to have a custom web presence (beyond having an email and Facebook account), I was pleasantly surprised to find out that I could get a free domain. I gravitated to **.tk** since it is the short form of TechKenyans (now TechKln), a community I run 💪. At first, it was for testing purposes but I have come to use it for keeps: [stanmd.tk](https://stanmd.tk).
 
 ## Getting a free domain
 
