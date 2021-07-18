@@ -8,24 +8,26 @@ The series: [DIY your web presence 'for FREE'](https://hashnode.com/series/diy-y
 
 Previous post: [#2](https://blog.techkln.org/the-internet-and-domain-names-or-diy-your-web-presence-2-ck9fla6vi06bdcxs11e0oosfd)
 
-# Your free domain and a landing page
+## Your free domain and a landing page
 
 When I started out, seeking to have a custom web presence (beyond having an email and Facebook account), I was pleasantly surprised to find out that I could get a free domain. I gravitated to **.tk** since it is the short form of TechKenyans (now TechKln), a community I run 💪. At first, it was for testing purposes but I have come to use it for keeps: [stanmd.tk](https://stanmd.tk).
 
 Below, I take you through the process of having a domain and a landing page for free. I believe this is the epitome of a **free and accessible** internet. Anyone can have a place to call home in the World Wide Web!
 
-## Getting a free domain
+### Getting a free domain
 
 [DotTK](http://www.dot.tk/) (_please note the link is not https_) claims to be the only TLD domain-name registry that provides free domain names.
 
-### What's the catch?
+#### What's the catch?
+
 Well, the details about the company are [here](http://www.dot.tk/en/aboutdottk.html). Simply put, it is a joint venture with several parties, chief among them; the government of a little known country, [Tokelau](https://en.wikipedia.org/wiki/Tokelau). The atolls (islands, _loosely explained_) of this tiny country are right at the international dateline; interesting story [here](https://www.bbc.com/news/world-asia-16351377). I think this place is worth a [visit](https://www.youtube.com/results?search_query=visit+Tokelau). Anyway, I digress 😁
 
 The mission of *DotTK* is to increase the country's publicity globally. If you did not know of this country up until now, we can agree they are succeeding. I'm sure you figured out that [**.tk**](https://en.wikipedia.org/wiki/.tk) is their ccTLD. The knowledge all comes together, right? Secondly, it's also profitable for the country. The proceeds out of royalties of this ccTLD have increased over 10% of the country's GDP (\*the smallest economy in the world).
 
 The domains are purchased on [freenom.com](https://www.freenom.com/). You might have guessed it; free domains have some limitations. However, when it's written FREE it is actually free! Not like others who 'give' a free domain if you purchase hosting or something else. Here's an [example](https://www.hostinger.com/free-domain) that I randomly came across. You can read the differences between paid and free domains [here](https://www.freenom.com/en/freeandpaiddomains.html)
 
-### Let's get that domain
+#### Let's get that domain
+
 Head over to [freenom.com](https://www.freenom.com). There's no Register button here. These are the steps:
 - Enter your domain of choice (without the TLD) in the field and :
 
@@ -38,7 +40,7 @@ Head over to [freenom.com](https://www.freenom.com). There's no Register button 
 
 _Please note that I have selected a free domain out of the 5 TLD's that are free_ The rest can be found at the lower part of the page at prices claimed to be the cheapest anywhere.
 
-- In the dropdown, *Period column* select up to 12 months FREE 🎉. Click on **Continue**. 
+- In the dropdown, *Period column* select up to 12 months FREE 🎉. Click on **Continue**.
 
 ![Screenshot 2020-07-18 22.06.38.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1595099267461/ebi8oGzOa.png)
 
@@ -46,18 +48,17 @@ _Please note that I have selected a free domain out of the 5 TLD's that are free
 
     🚨 I found out that *Facebook auth* is buggy and so is *Login with email address*. So just go with Google sign in 😉
 
-
 ![Screenshot 2020-07-18 22.37.01.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1595101347647/1LU3vmlGR.png)
 
-## Landing page
+### Landing page
 
 Here we'll be using **Netlify**.
 
-### Quick way to do it
+#### Quick way to do it
 
 Create a folder and in it create a file `index.html`. Copy the code below and save.
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -137,7 +138,7 @@ In Step 3, you specify to Netlify which folder is to be used and if there are an
 
 ![Screenshot 2020-07-18 23.53.37.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1595106704151/Vj1J7BL6U.png)
 
-## Tying the domain name and our site together
+### Tying the domain name and our site together
 
 We're not yet done. We need to 'tie' the site and the domain together.
 
