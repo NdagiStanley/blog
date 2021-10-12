@@ -1,5 +1,4 @@
-## The internet and domain names |
-#DIY your web presence #2
+## 2. #DIY your web presence | The internet and domain names
 
 > In the first post, I lined up what we have in store within this series. Next, we'll be registering a free domain and linking up free hosting to it! Sweet, right?
 
