@@ -1,4 +1,4 @@
-## A Custom domain name on your site & version control  | #DIY your web presence #4
+## 4. #DIY your web presence | A Custom domain name on your site & version control
 
 > In the previous parts of the series, we learnt about the internet and the world wide web. We then got a free custom domain from Freenom and deployed our site with Netlify. Here we'll tie the custom domain to your deployed site and make changes via version control.
 
