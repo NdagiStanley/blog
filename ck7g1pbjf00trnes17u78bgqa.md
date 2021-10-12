@@ -1,4 +1,4 @@
-## #DIY your web presence (Start here)
+## 1. #DIY your web presence (Start here)
 
 > DIY | Do It Yourself
 
