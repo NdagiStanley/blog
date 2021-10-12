@@ -1,4 +1,4 @@
-## Free domain & landing page | #DIY your web presence #3
+## 3. #DIY your web presence | Free domain & landing page
 
 > Now that we have a working understanding of the internet and domain names, let's own one and say "Hello World". 
 
